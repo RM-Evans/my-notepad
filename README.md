@@ -14,7 +14,7 @@ This program is uses Express to create and save personal notes.
 
 ## Deployed
 
-https://my-notpad.herokuapp.com/
+https://damp-peak-07448.herokuapp.com
 
 ## Screenshots
 
